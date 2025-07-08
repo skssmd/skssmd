@@ -31,7 +31,7 @@ A passionate full-stack developer with a focus on backend engineering and automa
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AI Integration](https://img.shields.io/badge/-AI-FF6F61?style=flat&logo=artificialintelligence&logoColor=white)
 ![Scripting](https://img.shields.io/badge/-Scripting-4B8BBE?style=flat&logo=python&logoColor=white)
-![Full-Text Search](https://img.shields.io/badge/-Full-Text_Search-FF4500?style=flat&logo=elasticsearch&logoColor=white)
+
 
 <!-- CMS & Templates -->
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
