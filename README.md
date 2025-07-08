@@ -28,22 +28,30 @@ A passionate full-stack developer with a focus on backend engineering and automa
 
 ## 🚀 Frameworks & Technologies
 
-```text
-Frameworks & Technologies
-├── Backend
-│   ├── Gin
-│   ├── Django
-│   ├── FastAPI
-│   └── Flask
-├── Frontend
-│   ├── React
-│   ├── Tailwind CSS
-│   └── Bootstrap
-└── Databases
-    ├── RDBMS
-    ├── MySQL
-    └── PostgreSQL
-```
+<h2 align="center">🚀 Frameworks & Technologies</h2>
+
+<p align="center">|</p>
+
+<hr style="border: 1px solid #ccc; width: 100%;" />
+
+<table align="center" width="100%">
+<tr>
+    <td align="left"><strong>|</strong></td>
+    <td align="center"><strong>|</strong></td>
+    <td align="right"><strong>|</strong></td>
+  </tr> 
+<tr>
+    <td align="left"><strong>Backend</strong></td>
+    <td align="center"><strong>Frontend</strong></td>
+    <td align="right"><strong>Databases</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Gin<br>Django<br>FastAPI<br>Flask</td>
+    <td align="center">React<br>Tailwind CSS<br>Bootstrap</td>
+    <td align="center">RDBMS<br>MySQL<br>PostgreSQL</td>
+  </tr>
+</table>
+
 
 
 
