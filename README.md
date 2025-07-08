@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Shahariar Munir
 
-A passionate full-stack developer with a focus on backend engineering and automation. I love building efficient systems and user-friendly tools.
-
-## 🧩 Technical Skills (Black Background + Colored Logos)
-
+A passionate full-stack developer with a focus on backend engineering and automation. Here's what I offer
 <!-- Programming Languages & Core -->
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=00ADD8&color=000000&labelColor=000000)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB&color=000000&labelColor=000000)
