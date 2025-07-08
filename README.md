@@ -51,26 +51,30 @@ make it a tree like design
 - ⚙️ Microservices Architecture  
 <!-- Experience in breaking down systems into microservices for scalability and maintainability -->
 
-- 🔍 Full-Text & Custom Search Tools  
-<!-- Implementing advanced search features, possibly using tools like Elasticsearch, Bleve, etc. -->
-
 - 💳 Stripe Payment Integration  
 <!-- Integrating Stripe for handling online payments, subscriptions, and invoicing -->
+
+- 🔌 WebSockets, REST API, gRPC  
+<!-- Real-time and standard communication protocols used to build APIs and services -->
+- ☁️ Cloud Platforms & Hosting: AWS • Google Cloud • Vercel • Render • VPS  
+<!-- Familiarity with deploying and managing services across major cloud and hosting providers -->
+- 📦 Containerization & Deployment With Docker 
+<!-- Using tools like Docker, Kubernetes for packaging and deploying applications -->
 
 - 🤖 AI Integration  
 <!-- Connecting applications with AI tools or models like OpenAI, HuggingFace, etc. -->
 
-- 🔌 WebSockets, REST API, gRPC  
-<!-- Real-time and standard communication protocols used to build APIs and services -->
+
 
 - 🖥️ Scripting & Automation  
 <!-- Writing scripts to automate tasks using Python, Bash, or other scripting languages -->
 
-- 📦 Containerization & Deployment  
-<!-- Using tools like Docker, Kubernetes for packaging and deploying applications -->
 
-- ☁️ Cloud Platforms & Hosting: AWS • Google Cloud • Vercel • Render • VPS  
-<!-- Familiarity with deploying and managing services across major cloud and hosting providers -->
+
+
+
+- 🔍 Full-Text & Custom Search Tools  
+<!-- Implementing advanced search features, possibly using tools like Elasticsearch, Bleve, etc. -->
 
 - 🛒 CMS & Templates: WordPress • WooCommerce • Shopify • Wix  
 <!-- Working with content management systems and e-commerce platforms -->
