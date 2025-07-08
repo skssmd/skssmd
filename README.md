@@ -27,16 +27,14 @@ A passionate full-stack developer with a focus on backend engineering and automa
 ---
 
 ## 🚀 Frameworks & Technologies
+**Backend:**  
+Gin • Django • FastAPI • Flask
 
-```text
-               Frameworks & Technologies
-__________________________|____________________
-├── Backend        ├── Frontend          └── Databases
-   ├── Gin           ├── React                ├── RDBMS
-   ├── Django        ├── Tailwind CSS         ├── MySQL
-   ├── FastAPI       └── Bootstrap            └── PostgreSQ           
-   └── Flask
-```
+**Frontend:**  
+React • Tailwind CSS • Bootstrap
+
+**Databases:**  
+RDBMS • MySQL • PostgreSQL
 
 ## 🧩 Technical Skills
 <!-- Section title for all technical capabilities -->
