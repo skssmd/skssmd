@@ -2,44 +2,42 @@
 
 A passionate full-stack developer with a focus on backend engineering and automation. I love building efficient systems and user-friendly tools.
 
-## 🧩 Technical Skills (Dark Mode Style)
+## 🧩 Technical Skills (Black Background + Colored Logos)
 
 <!-- Programming Languages & Core -->
-![Go](https://img.shields.io/badge/-Go-2D2D2D?style=flat&logo=go&logoColor=white&color=2D2D2D)
-![Python](https://img.shields.io/badge/-Python-2D2D2D?style=flat&logo=python&logoColor=white&color=2D2D2D)
-![JavaScript](https://img.shields.io/badge/-JavaScript-2D2D2D?style=flat&logo=javascript&logoColor=white&color=2D2D2D)
-![TypeScript](https://img.shields.io/badge/-TypeScript-2D2D2D?style=flat&logo=typescript&logoColor=white&color=2D2D2D)
-
-<!-- Databases -->
-![MySQL](https://img.shields.io/badge/-MySQL-2D2D2D?style=flat&logo=mysql&logoColor=white&color=2D2D2D)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2D2D2D?style=flat&logo=postgresql&logoColor=white&color=2D2D2D)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=00ADD8&color=000000&labelColor=000000)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB&color=000000&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E&color=000000&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6&color=000000&labelColor=000000)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1&color=000000&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1&color=000000&labelColor=000000)
 
 <!-- Architecture & Backend -->
-![Authentication](https://img.shields.io/badge/-Authentication-2D2D2D?style=flat&logo=keybase&logoColor=white&color=2D2D2D)
-![Microservices](https://img.shields.io/badge/-Microservices-2D2D2D?style=flat&logo=kubernetes&logoColor=white&color=2D2D2D)
-![Stripe](https://img.shields.io/badge/-Stripe-2D2D2D?style=flat&logo=stripe&logoColor=white&color=2D2D2D)
-![WebSockets](https://img.shields.io/badge/-WebSockets-2D2D2D?style=flat&logo=websocket&logoColor=white&color=2D2D2D)
-![REST API](https://img.shields.io/badge/-REST_API-2D2D2D?style=flat&logo=rest&logoColor=white&color=2D2D2D)
-![gRPC](https://img.shields.io/badge/-gRPC-2D2D2D?style=flat&logo=grpc&logoColor=white&color=2D2D2D)
+![Authentication](https://img.shields.io/badge/-Authentication-000000?style=flat&logo=keybase&logoColor=0078D7&color=000000&labelColor=000000)
+![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat&logo=kubernetes&logoColor=6DB33F&color=000000&labelColor=000000)
+![Stripe](https://img.shields.io/badge/-Stripe-000000?style=flat&logo=stripe&logoColor=6772E5&color=000000&labelColor=000000)
+![WebSockets](https://img.shields.io/badge/-WebSockets-000000?style=flat&logo=websocket&logoColor=0088CC&color=000000&labelColor=000000)
+![REST API](https://img.shields.io/badge/-REST_API-000000?style=flat&logo=rest&logoColor=61DAFB&color=000000&labelColor=000000)
+![gRPC](https://img.shields.io/badge/-gRPC-000000?style=flat&logo=grpc&logoColor=5282FF&color=000000&labelColor=000000)
 
 <!-- Cloud & Hosting -->
-![AWS](https://img.shields.io/badge/-AWS-2D2D2D?style=flat&logo=amazonaws&logoColor=white&color=2D2D2D)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-2D2D2D?style=flat&logo=googlecloud&logoColor=white&color=2D2D2D)
-![Vercel](https://img.shields.io/badge/-Vercel-2D2D2D?style=flat&logo=vercel&logoColor=white&color=2D2D2D)
-![Render](https://img.shields.io/badge/-Render-2D2D2D?style=flat&logo=render&logoColor=white&color=2D2D2D)
-![VPS](https://img.shields.io/badge/-VPS-2D2D2D?style=flat&logo=server&logoColor=white&color=2D2D2D)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat&logo=amazonaws&logoColor=FFFFFF&color=000000&labelColor=000000)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-000000?style=flat&logo=googlecloud&logoColor=4285F4&color=000000&labelColor=000000)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=FFFFFF&color=000000&labelColor=000000)
+![Render](https://img.shields.io/badge/-Render-000000?style=flat&logo=render&logoColor=44CCFF&color=000000&labelColor=000000)
+![VPS](https://img.shields.io/badge/-VPS-000000?style=flat&logo=server&logoColor=008080&color=000000&labelColor=000000)
 
 <!-- Containers & Automation -->
-![Docker](https://img.shields.io/badge/-Docker-2D2D2D?style=flat&logo=docker&logoColor=white&color=2D2D2D)
-![AI Integration](https://img.shields.io/badge/-AI-2D2D2D?style=flat&logo=artificialintelligence&logoColor=white&color=2D2D2D)
-![Scripting](https://img.shields.io/badge/-Scripting-2D2D2D?style=flat&logo=python&logoColor=white&color=2D2D2D)
-![Full-Text Search](https://img.shields.io/badge/-Full-Text_Search-2D2D2D?style=flat&logo=elasticsearch&logoColor=white&color=2D2D2D)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED&color=000000&labelColor=000000)
+![AI Integration](https://img.shields.io/badge/-AI-000000?style=flat&logo=artificialintelligence&logoColor=FF6F61&color=000000&labelColor=000000)
+![Scripting](https://img.shields.io/badge/-Scripting-000000?style=flat&logo=python&logoColor=4B8BBE&color=000000&labelColor=000000)
 
 <!-- CMS & Templates -->
-![WordPress](https://img.shields.io/badge/-WordPress-2D2D2D?style=flat&logo=wordpress&logoColor=white&color=2D2D2D)
-![WooCommerce](https://img.shields.io/badge/-WooCommerce-2D2D2D?style=flat&logo=woocommerce&logoColor=white&color=2D2D2D)
-![Shopify](https://img.shields.io/badge/-Shopify-2D2D2D?style=flat&logo=shopify&logoColor=white&color=2D2D2D)
-![Wix](https://img.shields.io/badge/-Wix-2D2D2D?style=flat&logo=wix&logoColor=white&color=2D2D2D)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&logoColor=21759B&color=000000&labelColor=000000)
+![WooCommerce](https://img.shields.io/badge/-WooCommerce-000000?style=flat&logo=woocommerce&logoColor=96588A&color=000000&labelColor=000000)
+![Shopify](https://img.shields.io/badge/-Shopify-000000?style=flat&logo=shopify&logoColor=96BF48&color=000000&labelColor=000000)
+![Wix](https://img.shields.io/badge/-Wix-000000?style=flat&logo=wix&logoColor=FFFFFF&color=000000&labelColor=000000)
+
 
 ---
 
