@@ -17,13 +17,13 @@ A passionate full-stack developer with a focus on backend engineering and automa
 
 ## 📂 Featured Projects
 
-- 🔊 [**Transcriber**](https://github.com/skssmd/transcriber) – Local transcription tool with WhisperX + ChatGPT-based formatting.
-- 💬 [**Realtime Messenger (Frontend)**](https://github.com/skssmd/Realtime-Messenger) – React-based real-time chat UI with WebSockets.
-- 💬 [**Realtime Messenger (Backend)**](https://github.com/skssmd/Realtime-Messanger-Backend) – Go backend for real-time messaging with socket handling and auth.
-- 🍽️ [**Restaurant Management & Ecommerce Store**](https://github.com/skssmd/Restaurant-Management-and-Ecommerce-Store) – A full-featured restaurant POS and store platform.
-- 🔍 [**SudoSearch**](https://github.com/skssmd/sudosearch) – Fast fuzzy search tool for files (including OCR support).
-- ⚙️ [**Golang Gin Starter**](https://github.com/skssmd/golang-gin_starter) – Starter template for building APIs with Gin.
-- 🧑‍💼 [**HR Solution Frontend**](https://github.com/skssmd/Hr-Solution-App-Frontend-) – React dashboard UI for HR tools.
+## 📂 Featured Projects
+
+| [Transcriber](https://github.com/skssmd/transcriber) <br> 🎙️ Transcribes audio using WhisperX and ChatGPT formatting. | [Realtime Messenger (Frontend)](https://github.com/skssmd/Realtime-Messenger) <br> 💬 React-based real-time chat app using WebSockets. | [Realtime Messenger (Backend)](https://github.com/skssmd/Realtime-Messanger-Backend) <br> 🔌 Go-based backend with socket handling and JWT auth. |
+|---|---|---|
+| [Restaurant Management](https://github.com/skssmd/Restaurant-Management-and-Ecommerce-Store) <br> 🍽️ POS + ecommerce platform built with Django & React. | [SudoSearch](https://github.com/skssmd/sudosearch) <br> 🔍 Fast file & OCR search tool with fuzzy matching. | [Gin Starter Template](https://github.com/skssmd/golang-gin_starter) <br> ⚙️ REST API starter with auth, env, logging. |
+| [HR App Frontend](https://github.com/skssmd/Hr-Solution-App-Frontend-) <br> 👥 HR dashboard UI for managing employee data. |  |  |
+
 
 ---
 
