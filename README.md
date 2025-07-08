@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Shahariar Munir
 
 A passionate full-stack developer with a focus on backend engineering and automation. I love building efficient systems and developer-friendly tools.
+
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -64,18 +65,14 @@ A passionate full-stack developer with a focus on backend engineering and automa
 
 ---
 
-## 🚀 Frameworks & Technologies
+🚀 Frameworks & Technologies
+ ├── Backend        ├── Frontend       └── Databases
+ │     ├── Gin         │    ├── React        ├── RDBMS
+ │     ├── Django      │    ├── Tailwind     ├── MySQL
+ │     ├── FastAPI     │    └── Bootstrap   └── PostgreSQL
+ │     └── Flask
+```
 
-**Backend:**  
-Gin • Django • FastAPI • Flask
-
-**Frontend:**  
-React • Tailwind CSS • Bootstrap
-
-**Databases:**  
-RDBMS • MySQL • PostgreSQL
-
----
 
 ## 🧩 Technical Skills
 
