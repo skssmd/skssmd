@@ -57,12 +57,8 @@ WordPress • WooCommerce • Shopify • Wix
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsernameHere&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsernameHere&layout=compact&theme=tokyonight)
 
----
 
 ## 📫 Reach Me
 
