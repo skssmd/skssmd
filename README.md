@@ -39,7 +39,7 @@ RDBMS • MySQL • PostgreSQL
 make it a tree like design
 
 
-```
+
 
 
 ## 🧩 Technical Skills
