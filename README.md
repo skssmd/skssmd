@@ -50,7 +50,7 @@ A passionate full-stack developer with a focus on backend engineering and automa
 
 ---
 
-<!-- ## 📂 Featured Projects
+## 📂 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -63,16 +63,16 @@ A passionate full-stack developer with a focus on backend engineering and automa
 | [**HR Frontend App**](https://github.com/skssmd/Hr-Solution-App-Frontend-) | HR system dashboard frontend | Dart, Flutter, REST API |
 
 ---
-
-
+<!-- Section divider -->
+---
 
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=skssmd&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skssmd&layout=compact&theme=tokyonight)
 
-
+---
 
 ## 📫 Reach Me
 
-Feel free to connect for collaboration, freelancing, or just tech talk! -->
+Feel free to connect for collaboration, freelancing, or just tech talk!
