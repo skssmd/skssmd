@@ -34,27 +34,36 @@ A passionate full-stack developer with a focus on backend engineering and automa
 
 <hr style="border: 1px solid #ccc; width: 100%;" />
 
-<table align="center" width="100%">
-<tr>
-    <td align="left"><strong>|</strong></td>
-    <td align="center"><strong>|</strong></td>
-    <td align="right"><strong>|</strong></td>
-  </tr> 
-<tr>
-    <td align="left"><strong>Backend</strong></td>
-    <td align="center"><strong>Frontend</strong></td>
-    <td align="right"><strong>Databases</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Gin<br>Django<br>FastAPI<br>Flask</td>
-    <td align="center">React<br>Tailwind CSS<br>Bootstrap</td>
-    <td align="center">RDBMS<br>MySQL<br>PostgreSQL</td>
-  </tr>
-</table>
+<h2 align="center">🚀 Frameworks & Technologies</h2>
 
+<div style="text-align: center; font-weight: bold; font-size: 18px;">|</div>
 
+<hr style="border: 1px solid #ccc; width: 100%;" />
 
+<div style="display: flex; justify-content: space-evenly; text-align: center; margin-top: 10px; font-weight: bold;">
+  <div>Backend</div>
+  <div>Frontend</div>
+  <div>Databases</div>
+</div>
 
+<div style="display: flex; justify-content: space-evenly; text-align: center; margin-top: 10px;">
+  <div>
+    Gin<br />
+    Django<br />
+    FastAPI<br />
+    Flask
+  </div>
+  <div>
+    React<br />
+    Tailwind CSS<br />
+    Bootstrap
+  </div>
+  <div>
+    RDBMS<br />
+    MySQL<br />
+    PostgreSQL
+  </div>
+</div>
 
 
 ## 🧩 Technical Skills
