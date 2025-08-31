@@ -2,9 +2,10 @@
 
 A passionate full-stack developer with a focus on backend engineering and automation. Here's what I offer
 <!-- Programming Languages & Core -->
+
 ## 🚀 Tech Stack & Stats
 
-<table border="0">
+<table  style="border: none;>
   <tr>
 
   <td valign="top" width="30%">
