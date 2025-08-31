@@ -2,6 +2,20 @@
 
 A passionate full-stack developer with a focus on backend engineering and automation. Here's what I offer
 <!-- Programming Languages & Core -->
+## 🚀 Tech Stack & Stats
+
+<table>
+  <tr>
+    <!-- Stats Left -->
+    <td valign="top" width="50%">
+      
+      ## 📈 Stats  
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skssmd&layout=compact&theme=tokyonight)  
+
+    </td>
+    
+    <!-- Icons Right -->
+    <td valign="top" width="50%">
 
 <!-- Languages -->
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=00ADD8&color=000000&labelColor=000000)
@@ -47,12 +61,11 @@ A passionate full-stack developer with a focus on backend engineering and automa
 ![Shopify](https://img.shields.io/badge/-Shopify-000000?style=flat&logo=shopify&logoColor=96BF48&color=000000&labelColor=000000)
 ![Wix](https://img.shields.io/badge/-Wix-000000?style=flat&logo=wix&logoColor=FFFFFF&color=000000&labelColor=000000)
 
+      <!-- And so on... -->
+    </td>
+  </tr>
+</table>
 
----
-<!-- Section divider -->
 
-## 📈 Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skssmd&layout=compact&theme=tokyonight)
 
 
