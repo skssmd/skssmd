@@ -5,8 +5,8 @@ A passionate full-stack developer with a focus on backend engineering and automa
 
 ## 🚀 Tech Stack & Stats
 
-<table  style="border: none;>
-  <tr>
+<table  style="border: none;">
+<tr>
 
   <td valign="top" width="30%">
       
