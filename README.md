@@ -49,22 +49,7 @@ A passionate full-stack developer with a focus on backend engineering and automa
 
 
 ---
-
-## 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**Transcriber**](https://github.com/skssmd/transcriber) | Local transcription app with WhisperX  | Python, Flask, WhisperX |
-| [**Realtime Messenger (Frontend)**](https://github.com/skssmd/Realtime-Messenger) | React-based real-time chat with WebSocket support | React, WebSockets, Tailwind |
-| [**Realtime Messenger (Backend)**](https://github.com/skssmd/Realtime-Messanger-Backend) | Go backend for real-time messaging, socket handling, auth | Go, Gin, JWT |
-| [**Restaurant Management Store**](https://github.com/skssmd/Restaurant-Management-and-Ecommerce-Store) | POS + Ecommerce store for restaurants | Django, , REST API |
-| [**SudoSearch**](https://github.com/skssmd/sudosearch) | Fast file search tool with OCR & fuzzy match | Python, Tesseract OCR, CLI |
-| [**Golang Gin Starter**](https://github.com/skssmd/golang-gin_starter) | Boilerplate Gin project with auth, env, logging, etc. | Go, Gin |
-| [**HR Frontend App**](https://github.com/skssmd/Hr-Solution-App-Frontend-) | HR system dashboard frontend | Dart, Flutter, REST API |
-
----
 <!-- Section divider -->
----
 
 ## 📈 GitHub Stats
 
