@@ -7,15 +7,14 @@ A passionate full-stack developer with a focus on backend engineering and automa
 
 <table  style="border: none;">
 <tr>
-<!--
+
   <td valign="top" width="40%">
       
    
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skssmd&layout=compact&theme=tokyonight&hide_border=true)
 
    </td>
-    -->
-  <td valign="top" width="100%">
+  <td valign="top" width="60%">
 
 ![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go&logoColor=00ADD8&color=000000&labelColor=000000)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB&color=000000&labelColor=000000)
