@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shahariar Munir
 
-A passionate full-stack developer with a focus on backend engineering and automation. Here's what I offer
+A passionate full-stack developer with a focus on backend engineering and automation. 
 <!-- Programming Languages & Core -->
 
 ## 🚀 Tech Stack & Stats
