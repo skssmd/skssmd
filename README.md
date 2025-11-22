@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shahariar Munir
 
-Full-stack developer with a focus on backend engineering and scripting. 
+Full-stack developer with a focus on backend. 
 <!-- Programming Languages & Core -->
 
 ## 🚀 Tech Stack & Stats
