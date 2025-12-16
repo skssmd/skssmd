@@ -3,7 +3,7 @@
 Full-stack developer with a focus on backend. 
 <!-- Programming Languages & Core -->
 
-## 🚀 Tech Stack & Stats
+## 🚀 Tech Stack 
 
 <table  style="border: none;">
 <tr>
