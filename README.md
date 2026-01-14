@@ -22,8 +22,6 @@ Full-stack developer with a focus on backend.
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white&color=000000&labelColor=000000)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB&color=000000&labelColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=06B6D4&color=000000&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=7952B3&color=000000&labelColor=000000)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1&color=000000&labelColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=4169E1&color=000000&labelColor=000000)
 
 ![Authentication](https://img.shields.io/badge/-Authentication-000000?style=flat&logo=keybase&logoColor=0078D7&color=000000&labelColor=000000)
